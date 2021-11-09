@@ -15,3 +15,9 @@
   <pre>{ count }</pre>
   <button on:click={add}>+</button>
 </div>
+
+<style>
+  pre {
+    color: red;
+  }
+</style>
